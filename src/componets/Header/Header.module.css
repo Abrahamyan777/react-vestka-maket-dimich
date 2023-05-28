@@ -1,0 +1,9 @@
+.headerBlock{
+    grid-area: h;
+    background-color: rgb(139, 170, 139);
+  
+  }
+
+ img{
+    width: 100px;
+  }
